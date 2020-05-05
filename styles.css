@@ -1,0 +1,54 @@
+
+/***************tag selectors**************/
+
+h1 {
+	color: darkred;
+	font-family: "Lucida Console", Courier, monospace;
+}
+
+h3 {
+	color: midnightblue;
+}
+	
+hr {
+	border-top: 4px dashed indianred;
+}
+
+body {
+	background-color: oldlace;
+}
+
+
+/***************class selectors**************/
+
+.photo {
+	border-radius: 20%;
+}
+
+.atas{
+	background-color: darksalmon;
+
+}
+
+.bawah {
+	background-color: mistyrose;
+	text-align: center;
+	font-family: cursive;
+	color: steelblue;
+}
+.hubungi{
+	color: midnightblue;
+}
+
+
+/***************id selectors**************/
+
+#tengah{
+	font-family: "Lucida Console", Courier, monospace;
+	text-align: center;
+	color: sienna;
+	background-color: peachpuff;
+	list-style-position:inside
+}
+
+
